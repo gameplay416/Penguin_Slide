@@ -1,0 +1,10 @@
+{
+	"name": "Pengu Slide",
+	"short_name": "Pengu Slide",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"background_color": "#ffffff",
+	"icons": []
+}
